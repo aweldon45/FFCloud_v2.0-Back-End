@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Motown: Sound of the 60's",
+    "festival": "Encore Film Festival",
+    "info": {
+      "filmID": "EFF1",
+      "festivalID": "EFF",
+      "screening_date": "March 1, 2019",
+      "screening_time": "8:00pm",
+      "directors": ["Holly Weldon"],
+      "logline": "Re-examining Motown's impact on America's identity and culture",
+      "genre": "documentary",
+      "run_time_secs": 349,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Motown_Soul_60/Thumbnails/Motown_Soul_60.0000011.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Motown_Soul_60/ABR_HLS/Motown_Soul_60.m3u8"
+    }
+  },
+  {
+    "title": "Detour",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF1",
+      "festivalID": "FNF",
+      "screening_date": "March 1, 2019",
+      "screening_time": "4:00pm",
+      "directors": ["Edgar Ulmer"],
+      "logline": "Man is involved in two freakish accidents that make him look like a murderer",
+      "genre": "film noir",
+      "run_time_secs": 4020,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Detour/Thumbnails/Detour.0000041.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Detour/ABR_HLS/Detour.m3u8"
+    }
+  },
+  {
+    "title": "The Hitch Hiker",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF2",
+      "festivalID": "FNF",
+      "screening_date": "March 1, 2019",
+      "screening_time": "2:00pm",
+      "directors": ["Ida Lupino"],
+      "logline": "Two fishermen pick up a psychotic escaped convict who tells them that he intends to murder them when the ride is over",
+      "genre": "film noir",
+      "run_time_secs": 4020,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Hitch_Hiker/Thumbnails/Hitch_Hiker.0000263.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Hitch_Hiker/ABR_HLS/Hitch_Hiker.m3u8"
+    }
+  },
+  {
+    "title": "Last Woman on Earth",
+    "festival": "Vintage Film Festival",
+    "info": {
+      "filmID": "VFF1",
+      "festivalID": "VFF",
+      "screening_date": "April 1, 2019",
+      "screening_time": "12:00pm",
+      "directors": ["Roger Corman"],
+      "logline": "Ev, along with her husband, Harold, and their lawyer friend Martin, are swimming while on vacation in Puerto Rico. When they resurface, they gradually conclude that an unexplained, temporary interruption of oxygen has killed everyone on the island... maybe even the world!",
+      "genre": "sci-fi",
+      "run_time_secs": 4321,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Last_Woman/Thumbnails/Last_Woman.0000002.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Last_Woman/ABR_HLS/Last_Woman.m3u8"
+    }
+  },
+  {
+    "title": "The Little Princess",
+    "festival": "Vintage Film Festival",
+    "info": {
+      "filmID": "VFF2",
+      "festivalID": "VFF",
+      "screening_date": "April 1, 2019",
+      "screening_time": "2:00pm",
+      "directors": ["Walter Lang"],
+      "logline": "A little girl is left by her father in an exclusive seminary for girls, due to her father having to go to South Africa to fight in the Second Boer War",
+      "genre": "animated",
+      "run_time_secs": 5940,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Little_Princess/Thumbnails/Little_Princess.0000001.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Little_Princess/ABR_HLS/Little_Princess.m3u8"
+    }
+  }
+]
