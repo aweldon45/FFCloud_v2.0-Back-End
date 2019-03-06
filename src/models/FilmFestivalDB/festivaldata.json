@@ -78,5 +78,85 @@
       "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Little_Princess/Thumbnails/Little_Princess.0000001.jpg",
       "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Little_Princess/ABR_HLS/Little_Princess.m3u8"
     }
+  },
+  {
+    "title": "Quick Sand",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF3",
+      "festivalID": "FNF",
+      "screening_date": "March 1, 2019",
+      "screening_time": "6:00pm",
+      "directors": ["Irving Pichel"],
+      "logline": "An engrossing suspense film with Mickey Rooney, Peter Lorre, and Jeanne Cagney.",
+      "genre": "film noir",
+      "run_time_secs": 4715,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Quicksand/Thumbnails/Quicksand.0000067.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Quicksand/ABR_HLS/Quicksand.m3u8"
+    }
+  },
+  {
+    "title": "Behind Green Lights",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF4",
+      "screening_date": "March 1, 2019",
+      "festivalID": "FNF",
+      "screening_time": "8:00pm",
+      "directors": ["Otto Brower"],
+      "logline": "The action begins when a car occupied by the corpse of a sleazy private detective glides down a hill and winds up in front of a police station.",
+      "genre": "film noir",
+      "run_time_secs": 3720,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Behind_Green_Lights/Thumbnails/Behind_Green_Lights.0000011.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Behind_Green_Lights/ABR_HLS/Behind_Green_Lights.m3u8"
+    }
+  },
+  {
+    "title": "Kansas City Confidential",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF5",
+      "screening_date": "March 1, 2019",
+      "festivalID": "FNF",
+      "screening_time": "10:00pm",
+      "directors": ["Phil Karl"],
+      "logline": "Four robbers hold up an armored truck getting away with over a million dollars in cash.",
+      "genre": "film noir",
+      "run_time_secs": 5940,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Kansas_City_Confidential/Thumbnails/Kansas_City_Confidential.0000373.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Kansas_City_Confidential/ABR_HLS/Kansas_City_Confidential.m3u8"
+    }
+  },
+  {
+    "title": "Inner Sanctum",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF6",
+      "screening_date": "March 2, 2019",
+      "festivalID": "FNF",
+      "screening_time": "12:00pm",
+      "directors": ["Lew Landers"],
+      "logline": "A man fleeing the police after having committed a murder hides out in a boarding house in a small town.",
+      "genre": "film noir",
+      "run_time_secs": 3720,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Inner_Sanctum/Thumbnails/Inner_Sanctum.0000001.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Inner_Sanctum/ABR_HLS/Inner_Sanctum.m3u8"
+    }
+  },
+  {
+    "title": "Two Dollar Bettor",
+    "festival": "Film Noir Festival",
+    "info": {
+      "filmID": "FNF7",
+      "screening_date": "March 2, 2019",
+      "festivalID": "FNF",
+      "screening_time": "2:00pm",
+      "directors": ["Edward Cahn"],
+      "logline": "New to betting on the horses, a middle-aged man has good fortune at first and thinks that gambling is a good source of income.",
+      "genre": "film noir",
+      "run_time_secs": 4260,
+      "posterUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Two_Dollar_Bettor/Thumbnails/Two_Dollar_Bettor.0000084.jpg",
+      "screeningUrl": "https://s3.amazonaws.com/ffc.linear.output/Test+Folder/Two_Dollar_Bettor/ABR_HLS/Two_Dollar_Bettor.m3u8"
+    }
   }
 ]

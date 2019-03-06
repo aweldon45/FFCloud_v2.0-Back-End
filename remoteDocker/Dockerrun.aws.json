@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "aweldon45/ffcbackend",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "8081"
+    }
+  ]
+}

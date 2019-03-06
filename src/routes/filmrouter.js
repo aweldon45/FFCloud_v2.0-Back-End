@@ -31,9 +31,13 @@ module.exports = (app) => {
 
       const docClient = new AWS.DynamoDB.DocumentClient();
 
-      let queryFilm = decodeURIComponent(decodeURIComponent(req.url.slice(12)));
+      // let queryFilm = decodeURIComponent(decodeURIComponent(req.url.slice(12)));
+      let queryString = req.url.split("=")
+      let queryArray = queryString[1]
+      let queryFilm = decodeURIComponent(decodeURIComponent(queryArray))
       console.log(req.url)
       console.log(queryFilm)
+      console.log(queryArray)
 
      const params = {
         TableName: 'FestivalFilms',
